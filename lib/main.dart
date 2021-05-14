@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-          body: Text("Hello World \nSEHRISH GULZAR \nsehrigul11@gmail.com")),
+          body: Text("Hello World ! \nSEHRISH GULZAR \nsehrigul11@gmail.com")),
     );
   }
 }
